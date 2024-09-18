@@ -6,6 +6,8 @@ plugins {
 }
 
 android {
+    compileSdkVersion 34
+    
     namespace = "com.example.onesignal_v3_crash"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion

@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  onesignal_flutter: ^3.5.3
+  purchases_flutter: ^6.30.2
 
 
   # The following adds the Cupertino Icons font to your application.
